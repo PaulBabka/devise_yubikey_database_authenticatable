@@ -1,0 +1,1 @@
+# devise_yubikey_database_authenticatable
